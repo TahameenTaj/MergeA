@@ -1,1 +1,2 @@
-# MergeA
+# MergeA 
+This is new file
